@@ -1,0 +1,15 @@
+# Table of contents
+
+* [Page](README.md)
+* [VSA Library: MLA Guide: Introduction](vsa-library-mla-guide-introduction.md)
+* [VSA Library: MLA Guide: Introduction](vsa-library-mla-guide-introduction-1.md)
+* [VSA Library: MLA Guide: Quotations](vsa-library-mla-guide-quotations.md)
+* [VSA Library: MLA Guide: In-text Citations](vsa-library-mla-guide-in-text-citations.md)
+* [VSA Library: MLA Guide: Citing Images](vsa-library-mla-guide-citing-images.md)
+* [VSA Library: MLA Guide: Using Tables and Figures](vsa-library-mla-guide-using-tables-and-figures.md)
+* [VSA Library: MLA Guide: Sample Works Cited Page](vsa-library-mla-guide-sample-works-cited-page.md)
+* [VSA Library: MLA Guide: Formatting Dates](vsa-library-mla-guide-formatting-dates.md)
+* [VSA Library: MLA Guide: Key Terms](vsa-library-mla-guide-key-terms/README.md)
+  * [Page 1](vsa-library-mla-guide-key-terms/page-1.md)
+* [VSA Library: MLA Guide: Citing from Britannica, JSTOR and Gale](vsa-library-mla-guide-citing-from-britannica-jstor-and-gale.md)
+* [VSA Library: MLA Guide: Chinese](vsa-library-mla-guide-chinese.md)
